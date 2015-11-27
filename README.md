@@ -11,6 +11,7 @@ To use this XSLT:
 2. Open the ZIP file containing the report and copy the **xapi-db.xml** file to the same location as the xslt file.
 
 3. Open the xapi-db.xml file and place the following at the very top:
+
 `<?xml-stylesheet type="text/xsl" href="xenserver.xsl"?>`
 
 4. Open the **xapi-db.xml** file in a web browser that can apply XSLT templates to an XML document such as Firefox or Internet Explorer (does not work in Chrome).
