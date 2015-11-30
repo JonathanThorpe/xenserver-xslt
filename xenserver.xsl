@@ -7,7 +7,7 @@
    <!--
    Proof of concept XSLT template for XenServer.
    Version: 0.4
-   Author: Jonathan Thorpe <jonathan.thorpe@citrix.com.au>
+   Author: Jonathan Thorpe <jt@jonthorpe.net>
 
       Usage: Add the line following line to your XAPI database XML file and open the XML file in any modern browser.
       <?xml-stylesheet type="text/xsl" href="xenserver.xsl"?>
